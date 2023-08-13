@@ -1,14 +1,5 @@
 <h1 id="v2ray-collector" align="center">V2Hub | Telegram : @FNET00</h1>
 <p align="center">
-  <a href="https://t.me/v2raycollectorbot">
-    <img src="https://img.shields.io/badge/Telegram_Bot-@v2raycollectorbot-darkblue?style=flat&logo=telegram" alt="Telegram Bot">
-  </a>
-  <a href="https://scrutinizer-ci.com/g/Free-net-00/V2Hub/build-status/main">
-    <img src="https://scrutinizer-ci.com/g/Free-net-00/V2Hub/badges/build.png?b=main" alt="Build Status">
-  </a>
-  <a href="https://scrutinizer-ci.com/code-intelligence">
-    <img src="https://scrutinizer-ci.com/g/Free-net-00/V2Hub/badges/code-intelligence.svg?b=main" alt="Code Intelligence Status">
-  </a>
   <a href="https://scrutinizer-ci.com/g/Free-net-00/V2Hub/?branch=main">
     <img src="https://img.shields.io/scrutinizer/quality/g/Free-net-00/V2Hub?style=flat&logo=scrutinizerci" alt="Scrutinizer Code Quality">
   </a>
