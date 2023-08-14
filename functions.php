@@ -426,7 +426,7 @@ function ping($ip, $port)
     }
 }
 
-function generate_name($flag, $ip, $port, $ping, $is_reality)
+function generate_name($ping , $is_reality)
 {
     $name = "";
     switch ($is_reality) {
@@ -446,7 +446,7 @@ function generate_name($flag, $ip, $port, $ping, $is_reality)
                 "ms";
             break;
     }
-    return $name;
+    return $is_reality;
 }
 
 function process_config($config)
